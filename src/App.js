@@ -15,8 +15,8 @@ function App() {
   return (
     <main>
       <h1>Create React App + Go API</h1>
-      <h2>
-        Deployed with{' '}
+      <h2 style={{color: 'green'}}>
+        Despliegue con{' '}
         <a
           href="https://vercel.com/docs"
           target="_blank"
