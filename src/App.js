@@ -48,6 +48,7 @@ function App() {
         .
       </p>
       <br />
+      <h3>Makers by Raul Montan Rodrigues</h3>
       <h2>The date according to Go is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
